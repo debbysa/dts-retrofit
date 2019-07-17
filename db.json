@@ -1,0 +1,52 @@
+{
+  "playlist": [
+    {
+      "id": 1,
+      "artist": "Bruno Mars",
+      "title": "Just The Way You are",
+      "image": "https://images.shazam.com/artistart/a40767324_s800b1b5.jpg"
+    },
+    {
+      "id": 2,
+      "artist": "Stephanie Poetri Dougherty",
+      "title": "I Love You 3000",
+      "image": "https://cdn1-production-images-kly.akamaized.net/7hab18xytUW5Ak6whEP4uQ8QdiM=/680x680/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2830948/original/073411100_1560839302-Stephanie_Poetri-1.jpg"
+    },
+    {
+      "id": 3,
+      "artist": "Zayn Malik, Zhavia Ward",
+      "title": "a Whole New World",
+      "image": "https://cdn2.tstatic.net/wartakota/foto/bank/images/disneys-aladdin2.jpg"
+    },
+    {
+      "id": 4,
+      "artist": "Raon Lee",
+      "title": "Silhouette",
+      "image": "https://i1.sndcdn.com/artworks-000119105818-i8po8d-t500x500.jpg"
+    },
+    {
+      "id": 5,
+      "artist": "Andmesh Kamaleng",
+      "title": "Hanya Rindu",
+      "image": "https://cdn2.tstatic.net/tribunnews/foto/bank/images/lirik-lagu-kunci-gitar-dan-cara-download-hanya-rindu-andmesh.jpg"
+    },
+    {
+      "id": 6,
+      "artist": "Maudy Ayunda",
+      "title": "Kamu dan Segala Kenangan",
+      "image": "https://i.ytimg.com/vi/7oV2ctudwrg/maxresdefault.jpg"
+    },
+    {
+      "id": 7,
+      "artist": "Cakra Khan",
+      "title": "Mencari Cinta Sejati",
+      "image": "https://c-sf.smule.com/sf/s83/arr/ca/e1/23157591-884e-4820-a170-3b62a75ee9a0_512.jpg"
+    },
+    {
+      "id": 8,
+      "artist": "Naif",
+      "title": "Jikalau",
+      "image": "https://www.musikae.com/wp-content/uploads/2016/02/naif.jpg"
+    }
+  ]
+}
